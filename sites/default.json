@@ -1,1 +1,66 @@
-
+{
+  "site_id": "default",
+  "version": "1.0.0",
+  "updated_at": "2026-06-30",
+  "global": {
+    "enabled": true,
+    "z_index": 99999,
+    "hide_for_admin": true,
+    "hide_on_checkout": true,
+    "close_duration": "7d"
+  },
+  "banners": [
+    {
+      "id": "left_001",
+      "title": "Banner trái 1",
+      "position": "left_floating",
+      "device": "desktop",
+      "image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/default/left-1.webp",
+      "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
+      "target_url": "https://example.com",
+      "order": 1,
+      "enabled": true,
+      "open_new_tab": true,
+      "rel": "sponsored nofollow noopener"
+    },
+    {
+      "id": "right_001",
+      "title": "Banner phải 1",
+      "position": "right_floating",
+      "device": "desktop",
+      "image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/default/right-1.webp",
+      "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
+      "target_url": "https://example.com",
+      "order": 1,
+      "enabled": true,
+      "open_new_tab": true,
+      "rel": "sponsored nofollow noopener"
+    },
+    {
+      "id": "mobile_001",
+      "title": "Banner mobile 1",
+      "position": "mobile_grid",
+      "device": "mobile",
+      "image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/default/mobile-1.webp",
+      "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
+      "target_url": "https://example.com",
+      "order": 1,
+      "enabled": true,
+      "open_new_tab": true,
+      "rel": "sponsored nofollow noopener"
+    },
+    {
+      "id": "bottom_001",
+      "title": "Banner dưới cùng",
+      "position": "bottom_fixed",
+      "device": "all",
+      "image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/default/bottom-1.webp",
+      "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
+      "target_url": "https://example.com",
+      "order": 1,
+      "enabled": true,
+      "open_new_tab": true,
+      "rel": "sponsored nofollow noopener"
+    }
+  ]
+}
