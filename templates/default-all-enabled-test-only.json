@@ -2,7 +2,7 @@
   "site_id": "default",
   "version": "1.2.0-full-link-map",
   "updated_at": "2026-06-30",
-  "note": "Mỗi banner có target_url riêng. Đổi target_url thành link thật của anh. Chỉ những banner enabled=true mới hiện trên website.",
+  "note": "Bản này bật toàn bộ banner. Chỉ dùng để test, không khuyến nghị chạy thật vì có thể hiện quá nhiều banner.",
   "global": {
     "enabled": true,
     "z_index": 99999,
@@ -33,7 +33,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/va/horizontal/02",
       "order": 2,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -46,7 +46,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/ox/horizontal/03",
       "order": 3,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -59,7 +59,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/11bet/horizontal/04",
       "order": 4,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -72,7 +72,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/one88/horizontal/05",
       "order": 5,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -85,7 +85,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/nbet/horizontal/06",
       "order": 6,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -98,7 +98,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/fb/horizontal/07",
       "order": 7,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -111,7 +111,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/bec/horizontal/08",
       "order": 8,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -124,7 +124,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/388bet/horizontal/09",
       "order": 9,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -137,7 +137,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/ld/horizontal/10",
       "order": 10,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -150,7 +150,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/fc/horizontal/11",
       "order": 11,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -163,7 +163,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/big/horizontal/12",
       "order": 12,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -176,7 +176,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/tot/horizontal/13",
       "order": 13,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -189,7 +189,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/iwin/horizontal/14",
       "order": 14,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -202,7 +202,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/vj/horizontal/15",
       "order": 15,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -215,7 +215,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/db/horizontal/16",
       "order": 16,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -228,7 +228,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/ta88/horizontal/17",
       "order": 17,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -241,7 +241,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/lk88/horizontal/18",
       "order": 18,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -254,7 +254,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/11bet/square/01",
       "order": 1,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -267,7 +267,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/388bet/square/02",
       "order": 2,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -280,7 +280,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/nbet/square/03",
       "order": 3,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -293,7 +293,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/db/square/04",
       "order": 4,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -332,7 +332,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/va/vertical/02",
       "order": 2,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -345,7 +345,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/ox/vertical/03",
       "order": 3,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -358,7 +358,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/11bet/vertical/04",
       "order": 4,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -371,7 +371,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/nbet/vertical/05",
       "order": 5,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -384,7 +384,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/fb/vertical/06",
       "order": 6,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -397,7 +397,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/bec/vertical/07",
       "order": 7,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -410,7 +410,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/388bet/vertical/08",
       "order": 8,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -436,7 +436,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/fc/vertical/10",
       "order": 10,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -449,7 +449,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/ld/vertical/11",
       "order": 11,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -462,7 +462,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/tot/vertical/12",
       "order": 12,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -475,7 +475,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/iwin/vertical/13",
       "order": 13,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -488,7 +488,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/vj/vertical/14",
       "order": 14,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -501,7 +501,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/one88/vertical/15",
       "order": 15,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -514,7 +514,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/db/vertical/16",
       "order": 16,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -527,7 +527,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/ta88/vertical/17",
       "order": 17,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     },
@@ -540,7 +540,7 @@
       "fallback_image": "https://baner-meo-beo-cpu.github.io/banner-library/assets/common/fallback.webp",
       "target_url": "https://link-cua-anh.com/lk88/vertical/18",
       "order": 18,
-      "enabled": false,
+      "enabled": true,
       "open_new_tab": true,
       "rel": "sponsored nofollow noopener"
     }
